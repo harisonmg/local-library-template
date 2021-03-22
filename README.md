@@ -1,10 +1,8 @@
-# Local Library
-A catalog application suitable for use by a small library.
+# Local Library Template
+Template repository for creating the [local library project](https://github.com/harisonmg/local-library)
 
-_Credits:_ [MDN Django Tutorials](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
-
-[![Continuous Integration](https://github.com/harisonmg/local-library/actions/workflows/ci.yml/badge.svg)](https://github.com/harisonmg/local-library/actions/workflows/ci.yml)
-[![Coverage Status](https://coveralls.io/repos/github/harisonmg/local-library/badge.svg?branch=master)](https://coveralls.io/github/harisonmg/local-library?branch=master)
+[![Continuous Integration](https://github.com/harisonmg/local-library-template/actions/workflows/ci.yml/badge.svg)](https://github.com/harisonmg/local-library-template/actions/workflows/ci.yml)
+[![Coverage Status](https://coveralls.io/repos/github/harisonmg/local-library-template/badge.svg?branch=master)](https://coveralls.io/github/harisonmg/local-library?branch=master)
 
 ## Required Software
 - [Python](https://www.python.org/downloads) 3.6 or greater
