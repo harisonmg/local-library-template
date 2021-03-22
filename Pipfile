@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "*"
+dj-database-url = "*"
+gunicorn = "*"
+psycopg2 = "*"
+whitenoise = "*"
+python-decouple = "*"
+
+[dev-packages]
+coverage = "*"
+coveralls = "*"
+
+[requires]
